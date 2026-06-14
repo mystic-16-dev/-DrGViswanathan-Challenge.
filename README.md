@@ -15,26 +15,26 @@ This repository documents my journey of solving coding problems consistently to 
 
 | Topic                 | Problems Solved | Folder                |
 | --------------------- | --------------- | --------------------- |
-| Arrays                | 0               | `Arrays/`             |
-| Strings               | 0               | `Strings/`            |
-| Hashing               | 0               | `Hashing/`            |
-| Linked Lists          | 0               | `LinkedList/`         |
-| Stack                 | 0               | `Stack/`              |
-| Queue                 | 0               | `Queue/`              |
-| Binary Search         | 0               | `BinarySearch/`       |
-| Recursion             | 0               | `Recursion/`          |
-| Trees                 | 0               | `Trees/`              |
-| Binary Search Trees   | 0               | `BST/`                |
-| Heap / Priority Queue | 0               | `Heap/`               |
-| Greedy Algorithms     | 0               | `Greedy/`             |
-| Graphs                | 0               | `Graphs/`             |
-| Dynamic Programming   | 0               | `DynamicProgramming/` |
-| Backtracking          | 0               | `Backtracking/`       |
-| Sliding Window        | 0               | `SlidingWindow/`      |
-| Two Pointers          | 0               | `TwoPointers/`        |
-| Trie                  | 0               | `Trie/`               |
+| Arrays                | 1               | `Arrays `             |
+| Strings               | 0               | `Strings `            |
+| Hashing               | 0               | `Hashing `            |
+| Linked Lists          | 0               | `LinkedList `         |
+| Stack                 | 0               | `Stack `              |
+| Queue                 | 0               | `Queue `              |
+| Binary Search         | 0               | `BinarySearch `       |
+| Recursion             | 0               | `Recursion `          |
+| Trees                 | 0               | `Trees `              |
+| Binary Search Trees   | 0               | `BST `                |
+| Heap / Priority Queue | 0               | `Heap `               |
+| Greedy Algorithms     | 0               | `Greedy `             |
+| Graphs                | 0               | `Graphs `             |
+| Dynamic Programming   | 0               | `DynamicProgramming ` |
+| Backtracking          | 0               | `Backtracking `       |
+| Sliding Window        | 0               | `SlidingWindow `      |
+| Two Pointers          | 0               | `TwoPointers `        |
+| Trie                  | 0               | `Trie `               |
 
-**Total Problems Solved:** 0
+**Total Problems Solved:** 1
 
 ---
 
@@ -75,11 +75,11 @@ This repository documents my journey of solving coding problems consistently to 
 
 | Metric                | Count |
 | --------------------- | ----- |
-| Total Problems Solved | 0     |
-| Easy                  | 0     |
+| Total Problems Solved | 1     |
+| Easy                  | 1     |
 | Medium                | 0     |
 | Hard                  | 0     |
-| Topics Covered        | 0     |
+| Topics Covered        | 2     |
 
 ---
 
