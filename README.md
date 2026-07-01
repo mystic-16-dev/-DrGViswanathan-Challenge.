@@ -15,7 +15,7 @@ This repository documents my journey of solving coding problems consistently to 
 
 | Topic                 | Problems Solved | Folder                |
 | --------------------- | --------------- | --------------------- |
-| Arrays                | 1               | `Arrays `             |
+| Arrays                | 3               | `Arrays `             |
 | Strings               | 0               | `Strings `            |
 | Hashing               | 0               | `Hashing `            |
 | Linked Lists          | 0               | `LinkedList `         |
@@ -34,7 +34,7 @@ This repository documents my journey of solving coding problems consistently to 
 | Two Pointers          | 0               | `TwoPointers `        |
 | Trie                  | 0               | `Trie `               |
 
-**Total Problems Solved:** 1
+**Total Problems Solved:** 3
 
 ---
 
@@ -75,11 +75,11 @@ This repository documents my journey of solving coding problems consistently to 
 
 | Metric                | Count |
 | --------------------- | ----- |
-| Total Problems Solved | 1     |
-| Easy                  | 1     |
+| Total Problems Solved | 3     |
+| Easy                  | 3     |
 | Medium                | 0     |
 | Hard                  | 0     |
-| Topics Covered        | 2     |
+| Topics Covered        | 3     |
 
 ---
 
