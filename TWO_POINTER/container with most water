@@ -1,0 +1,20 @@
+Time Complexity - O(n)
+Space Complexity - O(1)
+
+  
+class Solution {
+    public int maxArea(int[] height) {
+        int Lt=0 ,R= height.length-1,ans=0;
+        while(Lt<R)
+        {
+            int width = R-Lt;
+            int ht = Math.min(height[Lt],height[R]);
+            int water = width*ht;
+            ans=Math.max(ans,water);
+            if (height[Lt] < height[R]) Lt++;
+            else R--;
+                
+        }
+        return ans; 
+    }
+}
