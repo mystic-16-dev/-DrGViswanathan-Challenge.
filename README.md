@@ -31,7 +31,7 @@ This repository documents my journey of solving coding problems consistently to 
 | Dynamic Programming   | 0               | `DynamicProgramming ` |
 | Backtracking          | 0               | `Backtracking `       |
 | Sliding Window        | 0               | `SlidingWindow `      |
-| Two Pointers          | 2               | `TWO_POINTER `        |
+| Two Pointers          | 3               | `TWO_POINTER `        |
 | Trie                  | 0               | `Trie `               |
 
 **Total Problems Solved:** 3
@@ -75,11 +75,11 @@ This repository documents my journey of solving coding problems consistently to 
 
 | Metric                | Count |
 | --------------------- | ----- |
-| Total Problems Solved | 5     |
+| Total Problems Solved | 6     |
 | Easy                  | 3     |
-| Medium                | 2     |
+| Medium                | 3     |
 | Hard                  | 0     |
-| Topics Covered        | 4     |
+| Topics Covered        | 5     |
 
 ---
 
