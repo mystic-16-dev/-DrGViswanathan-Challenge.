@@ -75,8 +75,8 @@ This repository documents my journey of solving coding problems consistently to 
 
 | Metric                | Count |
 | --------------------- | ----- |
-| Total Problems Solved | 7     |
-| Easy                  | 3     |
+| Total Problems Solved | 8     |
+| Easy                  | 4     |
 | Medium                | 4     |
 | Hard                  | 0     |
 | Topics Covered        | 6     |
