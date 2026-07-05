@@ -31,7 +31,7 @@ This repository documents my journey of solving coding problems consistently to 
 | Dynamic Programming   | 0               | `DynamicProgramming ` |
 | Backtracking          | 0               | `Backtracking `       |
 | Sliding Window        | 1               | `SlidingWindow `      |
-| Two Pointers          | 3               | `TWO_POINTER `        |
+| Two Pointers          | 4               | `TWO_POINTER `        |
 | Trie                  | 0               | `Trie `               |
 
 **Total Problems Solved:** 3
