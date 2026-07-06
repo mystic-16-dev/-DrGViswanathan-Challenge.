@@ -32,7 +32,7 @@ This repository documents my journey of solving coding problems consistently to 
 | Backtracking          | 0               | `Backtracking `       |
 | Sliding Window        | 1               | `SlidingWindow `      |
 | Two Pointers          | 4               | `TWO_POINTER `        |
-| Trie                  | 0               | `Trie `               |
+| Tree                  | 0               | `Tree `               |
 
 **Total Problems Solved:** 3
 
