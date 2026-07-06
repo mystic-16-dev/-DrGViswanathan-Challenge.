@@ -21,7 +21,7 @@ This repository documents my journey of solving coding problems consistently to 
 | Linked Lists          | 0               | `LinkedList `         |
 | Stack                 | 0               | `Stack `              |
 | Queue                 | 0               | `Queue `              |
-| Binary Search         | 0               | `BinarySearch `       |
+| Binary Search         | 1               | `BinarySearch `       |
 | Recursion             | 0               | `Recursion `          |
 | Trees                 | 0               | `Trees `              |
 | Binary Search Trees   | 0               | `BST `                |
@@ -75,11 +75,11 @@ This repository documents my journey of solving coding problems consistently to 
 
 | Metric                | Count |
 | --------------------- | ----- |
-| Total Problems Solved | 8     |
-| Easy                  | 4     |
+| Total Problems Solved | 9     |
+| Easy                  | 5     |
 | Medium                | 4     |
 | Hard                  | 0     |
-| Topics Covered        | 6     |
+| Topics Covered        | 7     |
 
 ---
 
