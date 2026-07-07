@@ -15,13 +15,13 @@ This repository documents my journey of solving coding problems consistently to 
 
 | Topic                 | Problems Solved | Folder                |
 | --------------------- | --------------- | --------------------- |
-| Arrays                | 3               | `Arrays `             |
+| Arrays                | 4               | `Arrays `             |
 | Strings               | 0               | `Strings `            |
 | Hashing               | 0               | `Hashing `            |
 | Linked Lists          | 0               | `LinkedList `         |
 | Stack                 | 0               | `Stack `              |
 | Queue                 | 0               | `Queue `              |
-| Binary Search         | 1               | `BinarySearch `       |
+| Binary Search         | 2               | `BinarySearch `       |
 | Recursion             | 0               | `Recursion `          |
 | Trees                 | 0               | `Trees `              |
 | Binary Search Trees   | 0               | `BST `                |
