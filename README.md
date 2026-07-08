@@ -77,7 +77,7 @@ This repository documents my journey of solving coding problems consistently to 
 | --------------------- | ----- |
 | Total Problems Solved | 11     |
 | Easy                  | 5     |
-| Medium                | 4     |
+| Medium                | 5     |
 | Hard                  | 0     |
 | Topics Covered        | 7     |
 
