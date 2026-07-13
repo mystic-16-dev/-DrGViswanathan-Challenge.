@@ -29,7 +29,7 @@ This repository documents my journey of solving coding problems consistently to 
 | Greedy Algorithms     | 0               | `Greedy `             |
 | Graphs                | 0               | `Graphs `             |
 | Dynamic Programming   | 0               | `DynamicProgramming ` |
-| Backtracking          | 1               | `Backtracking `       |
+| Backtracking          | 2               | `Backtracking `       |
 | Sliding Window        | 1               | `SlidingWindow `      |
 | Two Pointers          | 4               | `TWO_POINTER `        |
 | Tree                  | 0               | `Tree `               |
