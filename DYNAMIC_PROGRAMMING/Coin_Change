@@ -3,7 +3,6 @@ class Solution {
 
         int[] dp = new int[amount + 1];
 
-        // Initialize with a large value
         for (int i = 0; i <= amount; i++) {
             dp[i] = amount + 1;
         }
