@@ -75,10 +75,10 @@ This repository documents my journey of solving coding problems consistently to 
 
 | Metric                | Count |
 | --------------------- | ----- |
-| Total Problems Solved | 17     |
+| Total Problems Solved | 18     |
 | Easy                  | 6     |
 | Medium                | 8     |
-| Hard                  | 2     |
+| Hard                  | 3     |
 | Topics Covered        | 10     |
 
 ---
