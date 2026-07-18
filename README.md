@@ -28,7 +28,7 @@ This repository documents my journey of solving coding problems consistently to 
 | Heap / Priority Queue | 0               | `Heap `               |
 | Greedy Algorithms     | 0               | `Greedy `             |
 | Graphs                | 0               | `Graphs `             |
-| Dynamic Programming   | 3               | `DynamicProgramming ` |
+| Dynamic Programming   | 4               | `DynamicProgramming ` |
 | Backtracking          | 2               | `Backtracking `       |
 | Sliding Window        | 1               | `SlidingWindow `      |
 | Two Pointers          | 4               | `TWO_POINTER `        |
@@ -75,9 +75,9 @@ This repository documents my journey of solving coding problems consistently to 
 
 | Metric                | Count |
 | --------------------- | ----- |
-| Total Problems Solved | 18     |
+| Total Problems Solved | 19     |
 | Easy                  | 6     |
-| Medium                | 8     |
+| Medium                | 9     |
 | Hard                  | 3     |
 | Topics Covered        | 10     |
 
