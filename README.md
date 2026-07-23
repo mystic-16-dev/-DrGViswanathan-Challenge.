@@ -23,7 +23,7 @@ This repository documents my journey of solving coding problems consistently to 
 | Queue                 | 0               | `Queue `              |
 | Binary Search         | 2               | `BinarySearch `       |
 | Recursion             | 0               | `Recursion `          |
-| Trees                 | 0               | `Trees `              |
+| Trees                 | 2               | `Trees `              |
 | Binary Search Trees   | 0               | `BST `                |
 | Heap / Priority Queue | 0               | `Heap `               |
 | Greedy Algorithms     | 0               | `Greedy `             |
@@ -75,10 +75,10 @@ This repository documents my journey of solving coding problems consistently to 
 
 | Metric                | Count |
 | --------------------- | ----- |
-| Total Problems Solved | 23     |
-| Easy                  | 7     |
+| Total Problems Solved | 25     |
+| Easy                  | 8     |
 | Medium                | 11     |
-| Hard                  | 5     |
+| Hard                  | 6     |
 | Topics Covered        | 11     |
 
 ---
