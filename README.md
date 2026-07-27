@@ -23,12 +23,12 @@ This repository documents my journey of solving coding problems consistently to 
 | Queue                 | 0               | `Queue `              |
 | Binary Search         | 2               | `BinarySearch `       |
 | Recursion             | 0               | `Recursion `          |
-| Trees                 | 3               | `Trees `              |
+| Trees                 | 7               | `Trees `              |
 | Binary Search Trees   | 0               | `BST `                |
 | Heap / Priority Queue | 0               | `Heap `               |
 | Greedy Algorithms     | 0               | `Greedy `             |
 | Graphs                | 0               | `Graphs `             |
-| Dynamic Programming   | 9               | `DynamicProgramming ` |
+| Dynamic Programming   | 10               | `DynamicProgramming ` |
 | Backtracking          | 2               | `Backtracking `       |
 | Sliding Window        | 1               | `SlidingWindow `      |
 | Two Pointers          | 4               | `TWO_POINTER `        |
@@ -75,9 +75,9 @@ This repository documents my journey of solving coding problems consistently to 
 
 | Metric                | Count |
 | --------------------- | ----- |
-| Total Problems Solved | 27     |
+| Total Problems Solved | 47     |
 | Easy                  | 10     |
-| Medium                | 13     |
+| Medium                | 14     |
 | Hard                  | 9     |
 | Topics Covered        | 11     |
 
