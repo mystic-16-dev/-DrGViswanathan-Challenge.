@@ -32,9 +32,9 @@ This repository documents my journey of solving coding problems consistently to 
 | Backtracking          | 2               | `Backtracking `       |
 | Sliding Window        | 1               | `SlidingWindow `      |
 | Two Pointers          | 4               | `TWO_POINTER `        |
-| Tree                  | 4               | `Tree `               |
+| Tree                  | 6               | `Tree `               |
 
-**Total Problems Solved:** 27
+**Total Problems Solved:** 46
 
 ---
 
@@ -75,9 +75,9 @@ This repository documents my journey of solving coding problems consistently to 
 
 | Metric                | Count |
 | --------------------- | ----- |
-| Total Problems Solved | 47     |
-| Easy                  | 10     |
-| Medium                | 14     |
+| Total Problems Solved | 46     |
+| Easy                  | 11     |
+| Medium                | 15     |
 | Hard                  | 9     |
 | Topics Covered        | 11     |
 
