@@ -34,7 +34,7 @@ This repository documents my journey of solving coding problems consistently to 
 | Two Pointers          | 4               | `TWO_POINTER `        |
 | Tree                  | 9               | `Tree `               |
 
-**Total Problems Solved:** 46
+**Total Problems Solved:** 42
 
 ---
 
@@ -75,9 +75,9 @@ This repository documents my journey of solving coding problems consistently to 
 
 | Metric                | Count |
 | --------------------- | ----- |
-| Total Problems Solved | 46     |
-| Easy                  | 11     |
-| Medium                | 15     |
+| Total Problems Solved | 42     |
+| Easy                  | 14     |
+| Medium                | 19     |
 | Hard                  | 9     |
 | Topics Covered        | 11     |
 
