@@ -18,7 +18,7 @@ This repository documents my journey of solving coding problems consistently to 
 | Arrays                | 4               | `Arrays `             |
 | Strings               | 2               | `Strings `            |
 | Hashing               | 0               | `Hashing `            |
-| Linked Lists          | 0               | `LinkedList `         |
+| Linked Lists          | 1               | `LinkedList `         |
 | Stack                 | 0               | `Stack `              |
 | Queue                 | 0               | `Queue `              |
 | Binary Search         | 2               | `BinarySearch `       |
@@ -32,7 +32,7 @@ This repository documents my journey of solving coding problems consistently to 
 | Backtracking          | 2               | `Backtracking `       |
 | Sliding Window        | 1               | `SlidingWindow `      |
 | Two Pointers          | 4               | `TWO_POINTER `        |
-| Tree                  | 6               | `Tree `               |
+| Tree                  | 9               | `Tree `               |
 
 **Total Problems Solved:** 46
 
