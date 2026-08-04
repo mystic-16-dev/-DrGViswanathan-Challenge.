@@ -19,7 +19,7 @@ This repository documents my journey of solving coding problems consistently to 
 | Strings               | 2               | `Strings `            |
 | Hashing               | 0               | `Hashing `            |
 | Linked Lists          | 3               | `LinkedList `         |
-| Stack                 | 0               | `Stack `              |
+| Stack                 | 1               | `Stack `              |
 | Queue                 | 0               | `Queue `              |
 | Binary Search         | 2               | `BinarySearch `       |
 | Recursion             | 0               | `Recursion `          |
@@ -28,13 +28,13 @@ This repository documents my journey of solving coding problems consistently to 
 | Heap / Priority Queue | 0               | `Heap `               |
 | Greedy Algorithms     | 0               | `Greedy `             |
 | Graphs                | 0               | `Graphs `             |
-| Dynamic Programming   | 11               | `DynamicProgramming ` |
+| Dynamic Programming   | 12               | `DynamicProgramming ` |
 | Backtracking          | 2               | `Backtracking `       |
 | Sliding Window        | 1               | `SlidingWindow `      |
 | Two Pointers          | 4               | `TWO_POINTER `        |
 | Tree                  | 11               | `Tree `               |
 
-**Total Problems Solved:** 42
+**Total Problems Solved:** 46
 
 ---
 
@@ -75,11 +75,11 @@ This repository documents my journey of solving coding problems consistently to 
 
 | Metric                | Count |
 | --------------------- | ----- |
-| Total Problems Solved | 44     |
+| Total Problems Solved | 46     |
 | Easy                  | 15     |
-| Medium                | 22     |
-| Hard                  | 9     |
-| Topics Covered        | 11     |
+| Medium                | 23     |
+| Hard                  | 10     |
+| Topics Covered        | 12     |
 
 ---
 
